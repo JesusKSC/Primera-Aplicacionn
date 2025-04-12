@@ -27,7 +27,7 @@
     "@babel/core": "^7.19.3"
   },
   "scripts": {
-    "start": "expo start",
+    "start": "expo start --tunnel",
     "android": "expo android",
     "ios": "expo ios",
     "web": "expo start --web"
